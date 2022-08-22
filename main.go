@@ -11,10 +11,10 @@ import (
 	"github.com/go-openapi/runtime/middleware"
 	"github.com/nicholasjackson/env"
 
-	"product-api/data"
-	"product-api/handlers"
+	"golang-product-api/data"
+	"golang-product-api/handlers"
 
-	// "product-api/env"
+	// "golang-product-api/env"
 
 	"github.com/gorilla/mux"
 )

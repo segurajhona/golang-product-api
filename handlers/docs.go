@@ -15,7 +15,7 @@
 // swagger:meta
 package handlers
 
-import "product-api/data"
+import "golang-product-api/data"
 
 //
 // NOTE: Types defined here are purely for documentation purposes

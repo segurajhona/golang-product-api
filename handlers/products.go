@@ -6,7 +6,7 @@ import (
 	"net/http"
 	"strconv"
 
-	"product-api/data"
+	"golang-product-api/data"
 
 	"github.com/gorilla/mux"
 )
