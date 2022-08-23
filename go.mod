@@ -1,4 +1,4 @@
-module golang-golang-product-api
+module golang-product-api
 
 go 1.17
 
